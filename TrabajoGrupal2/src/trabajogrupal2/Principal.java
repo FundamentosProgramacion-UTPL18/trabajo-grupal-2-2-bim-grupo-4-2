@@ -4,7 +4,6 @@ public class Principal {
 
     public static void main(String[] args) {
         //declaracion de variables
-        Persona p = new Persona();
         String[] nombres = {"Jose", "Maria", "Ana", "Paul", "David"};
         String[] apellidos = {"Yaguana", "Benitez", "Gaviria", "Davila", "Andrade"};
         int[] edad = {20, 19, 20, 19, 25};
